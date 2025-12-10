@@ -10,6 +10,7 @@ This repo helps developers quickly find:
 - Freelance projects, jobs, resources, and daily AI-dev news
 
 🔗 **Full directory with daily updates:**  
+
 https://lovabledirectory.site/
 
 ---
@@ -112,3 +113,9 @@ Open an issue or PR anytime.
 
 ## 🔗 Visit the Full Directory  
 👉 https://lovabledirectory.site/
+
+---
+
+## Latest Updates
+
+[Gemini 3.0 Coding Prompts December 2025: Real-Time Gesture Interfaces with ML5.js] (https://lovabledirectory.site/prompt/gemini-30-coding-prompts-december-2025-real-time-gesture-int)
