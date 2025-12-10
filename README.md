@@ -118,4 +118,4 @@ Open an issue or PR anytime.
 
 ## Latest Updates
 
-[Gemini 3.0 Coding Prompts December 2025: Real-Time Gesture Interfaces with ML5.js] (https://lovabledirectory.site/prompt/gemini-30-coding-prompts-december-2025-real-time-gesture-int)
+[Gemini 3.0 Coding Prompts December 2025: Real-Time Gesture Interfaces with ML5.js](https://lovabledirectory.site/prompt/gemini-30-coding-prompts-december-2025-real-time-gesture-int)
