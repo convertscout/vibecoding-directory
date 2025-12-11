@@ -1,3 +1,10 @@
+# Updates ---
+
+Added a custom Rule & Prompt Generator — you can now select your tool, language, and framework to generate tailored rules, prompts, and more.
+
+[Try it out](https://lovabledirectory.site/)
+
+
 # Vibecoding Directory — The Biggest Collection of Cursor Rules, Prompts & AI Coding Workflows
 
 A public directory of the best **Cursor rules**, **system prompts**, **coding guidelines**, and **AI workflows** used by real developers to code faster with Cursor, Lovable, GitHub Copilot, Base44, Emergent, and more.
